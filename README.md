@@ -9,6 +9,7 @@ Features:
 - Motion Blur Effect
 - Game Behavior for init, update, render
 - Game Object class
+- Scretch Whole Game Frame without affecting game logic
 
 Main.java for the main class
 
