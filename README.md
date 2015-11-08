@@ -1,5 +1,5 @@
 # FixItFelix
-FixItFelix - Java Custom Game Framework
+FixItFelix - Java Custom 2D Game Framework Programming
 
 Learn How to Code With Java Graphics2D and Simple Game Framework Concept
 
